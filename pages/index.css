@@ -19,3 +19,9 @@
 @import url(../blocks/wish/__paragraph/wish__paragraph.css);
 @import url(../blocks/wish/__text-block/wish__text-block.css);
 @import url(../blocks/wish/__text-list/wish__text-list.css);
+
+@import url(../blocks/outro/outro.css);
+@import url(../blocks/quotes/quotes.css);
+@import url(../blocks/quotes/__header/quotes__header.css);
+@import url(../blocks/quotes/__item/quotes__item.css);
+@import url(../blocks/quotes/__text/quotes__text.css);
