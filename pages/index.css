@@ -8,6 +8,14 @@
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__image/intro__image.css);
 
+@import url(../blocks/pinky/pinky.css);
+@import url(../blocks/pinky/__title/pinky__title.css);
+@import url(../blocks/pinky/__subtitle/pinky__subtitle.css);
+
 @import url(../blocks/wish/wish.css);
-@import url(../blocks/wish/__title/wish__title.css);
-@import url(../blocks/wish/__subtitle/wish__subtitle.css);
+@import url(../blocks/wish/__card/wish__card.css);
+@import url(../blocks/wish/__header/wish__header.css);
+@import url(../blocks/wish/__image/wish__image.css);
+@import url(../blocks/wish/__paragraph/wish__paragraph.css);
+@import url(../blocks/wish/__text-block/wish__text-block.css);
+@import url(../blocks/wish/__text-list/wish__text-list.css);
