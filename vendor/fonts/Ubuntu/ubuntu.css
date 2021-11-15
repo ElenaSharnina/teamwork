@@ -22,4 +22,12 @@
     src: url("UbuntuMonoBold.woff2") format("woff2"),
          url("UbuntuMonoBold.woff") format("woff");
   }
+  @font-face {
+     font-family: 'Ubuntu'; /*sub*/
+     font-style:  normal;
+     font-weight: 500;
+     font-display: swap;
+     src: url("ubuntu-medium.woff2") format("woff2"),
+          url("ubuntu-medium.woff") format("woff");
+   }
   

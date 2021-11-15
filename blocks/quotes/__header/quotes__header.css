@@ -1,4 +1,9 @@
 .quotes__header {
     margin: 0;
     padding: 0;
+    font-family: 'Montserrat', Arial, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 14px;
+    text-transform: uppercase;
 }
