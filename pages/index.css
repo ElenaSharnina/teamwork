@@ -25,3 +25,6 @@
 @import url(../blocks/quotes/__header/quotes__header.css);
 @import url(../blocks/quotes/__item/quotes__item.css);
 @import url(../blocks/quotes/__text/quotes__text.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__text/footer__text.css);
