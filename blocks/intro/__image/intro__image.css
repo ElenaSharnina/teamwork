@@ -1,4 +1,6 @@
 .intro__image {
     width: 80%;
     height: 80%;
+    object-position: center center;
+    object-fit: cover;
 }
