@@ -5,3 +5,27 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__nav/header__nav.css);
 @import url(../blocks/header/__link/header__link.css);
+
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__image/intro__image.css);
+
+@import url(../blocks/pinky/pinky.css);
+@import url(../blocks/pinky/__title/pinky__title.css);
+@import url(../blocks/pinky/__subtitle/pinky__subtitle.css);
+
+@import url(../blocks/wish/wish.css);
+@import url(../blocks/wish/__card/wish__card.css);
+@import url(../blocks/wish/__header/wish__header.css);
+@import url(../blocks/wish/__image/wish__image.css);
+@import url(../blocks/wish/__paragraph/wish__paragraph.css);
+@import url(../blocks/wish/__text-block/wish__text-block.css);
+@import url(../blocks/wish/__text-list/wish__text-list.css);
+
+@import url(../blocks/outro/outro.css);
+@import url(../blocks/quotes/quotes.css);
+@import url(../blocks/quotes/__header/quotes__header.css);
+@import url(../blocks/quotes/__item/quotes__item.css);
+@import url(../blocks/quotes/__text/quotes__text.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__text/footer__text.css);
