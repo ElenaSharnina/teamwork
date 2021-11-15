@@ -1,0 +1,6 @@
+.quotes {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
