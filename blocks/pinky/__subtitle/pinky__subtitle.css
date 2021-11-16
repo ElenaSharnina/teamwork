@@ -6,3 +6,8 @@
     font-size: 15px;
     margin: 0;
 }
+@media screen and (max-width:320px) {
+    .pinky__subtitle {
+        margin: 0 auto;
+    }
+}
