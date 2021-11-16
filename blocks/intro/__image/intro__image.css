@@ -4,3 +4,13 @@
     object-position: center center;
     object-fit: cover;
 }
+@media screen and (min-width:320px) and (max-width:767px){
+    .intro__image {
+        width: 100%;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1024px){
+    .intro__image {
+        width: 80%;
+    }
+}
