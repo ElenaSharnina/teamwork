@@ -2,5 +2,5 @@
     object-fit: cover;
     object-position: center center;
     width: 50%;
-    height: auto;
+    min-height: auto;
 }
