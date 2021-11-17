@@ -5,3 +5,9 @@
 .wish__paragraph:last-child {
   margin-bottom: 0;
 }
+
+@media screen and (max-width: 820px) {
+  .wish__paragraph {
+    margin-bottom: 10px;
+  }
+}

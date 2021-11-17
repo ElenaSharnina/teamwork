@@ -12,8 +12,8 @@
 .header__link:last-child {
   margin-right: 0;
 }
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .header__link {
-    margin: 0 0 10px 0;
+    margin: 0 15px 10px 0;
   }
 }

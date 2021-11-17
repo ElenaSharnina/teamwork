@@ -6,13 +6,14 @@
   display: grid;
   grid-auto-rows: 600px;
 }
+
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+  .wish {
+    grid-auto-rows: 450px;
+  }
+}
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .wish {
     grid-auto-rows: min-content;
-  }
-}
-@media screen and (min-width: 768px) and (max-width: 1280px) {
-  .wish {
-    grid-auto-rows: 400px;
   }
 }
