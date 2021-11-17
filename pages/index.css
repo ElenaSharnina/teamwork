@@ -11,6 +11,7 @@
 @import url(../blocks/intro/__image/intro__image.css);
 
 @import url(../blocks/pinky/pinky.css);
+@import url(../blocks/pinky/_place/pinky_place_intro.css);
 @import url(../blocks/pinky/__title/pinky__title.css);
 @import url(../blocks/pinky/__subtitle/pinky__subtitle.css);
 
