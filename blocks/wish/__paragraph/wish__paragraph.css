@@ -1,3 +1,7 @@
 .wish__paragraph {
-  margin-bottom: 20px;
+  margin-bottom: 22px;
+}
+
+.wish__paragraph:last-child {
+  margin-bottom: 0;
 }

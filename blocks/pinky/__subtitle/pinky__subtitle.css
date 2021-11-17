@@ -5,9 +5,12 @@
   font-weight: 600;
   font-size: 15px;
   margin: 0;
+  letter-spacing: -1px;
+
 }
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
   .pinky__subtitle {
     margin: 0 auto;
+    font-size: 12px;
   }
 }
