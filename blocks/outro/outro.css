@@ -1,12 +1,12 @@
 .outro {
-    padding: 150px 75px 135px;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
+  padding: 150px 75px 135px;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
 }
-@media screen and (min-width:320px) and (max-width:1024px){
-    .outro {
-        padding: 40px 0 40px 0;
-        margin: 0 auto;
-    }
+@media screen and (min-width: 320px) and (max-width: 1024px) {
+  .outro {
+    padding: 40px 0 40px 0;
+    margin: 0 auto;
+  }
 }

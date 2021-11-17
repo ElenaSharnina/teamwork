@@ -4,16 +4,16 @@
   text-decoration: none;
   font-weight: 700;
   color: black;
-  font-family: 'Montserrat', Arial, sans-serif;
+  font-family: "Montserrat", Arial, sans-serif;
   font-size: 14px;
   line-height: 14px;
 }
 
 .header__link:last-child {
-    margin-right: 0;
+  margin-right: 0;
 }
-@media screen and (min-width:320px) and (max-width:767px){
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .header__link {
-       margin: 0 0 10px 0;
+    margin: 0 0 10px 0;
   }
 }

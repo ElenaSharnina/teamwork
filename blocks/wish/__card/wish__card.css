@@ -1,15 +1,15 @@
 .wish__card {
-    display: flex;
-    width: 100%;
+  display: flex;
+  width: 100%;
 }
 
-@media screen and (min-width:767px) {
-    .wish__card:nth-of-type(2n) {
- flex-direction: row-reverse;
+@media screen and (min-width: 767px) {
+  .wish__card:nth-of-type(2n) {
+    flex-direction: row-reverse;
+  }
 }
-}
-@media screen and (min-width:320px) and (max-width:767px){
-    .wish__card {
-        flex-direction: column-reverse;
-    }
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .wish__card {
+    flex-direction: column-reverse;
+  }
 }
