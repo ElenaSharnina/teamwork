@@ -7,5 +7,6 @@
 @media screen and (max-width:767px){
   .intro__image {
       width: 100%;
+      height: auto;
   }
 }
