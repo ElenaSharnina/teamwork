@@ -1,4 +1,4 @@
-.pinky__subtitle {
+.title__subtitle {
   color: #fecda7;
   text-transform: uppercase;
   font-family: "Montserrat", Arial, sans-serif;
@@ -8,7 +8,7 @@
   letter-spacing: -1px;
 }
 @media screen and (max-width: 767px) {
-  .pinky__subtitle {
+  .title__subtitle {
     margin: 0 auto;
     font-size: 12px;
   }
