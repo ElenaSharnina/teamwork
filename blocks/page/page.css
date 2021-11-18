@@ -10,8 +10,3 @@
   text-rendering: optimizeLegibility;
   padding: 0;
 }
-@media screen and (max-width: 1024px) {
-  .page {
-    padding: 0;
-  }
-}
