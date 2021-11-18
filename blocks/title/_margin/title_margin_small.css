@@ -4,8 +4,8 @@
 }
 
 @media screen and (max-width: 768px) {
-    .title_margin_small {
-        margin-left: 30px;
-        margin-right: 30px;
-      }
+  .title_margin_small {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
 }
