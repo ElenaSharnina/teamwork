@@ -9,7 +9,6 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   padding: 0;
-  box-sizing: border-box;
 }
 @media screen and (max-width: 1024px) {
   .page {
