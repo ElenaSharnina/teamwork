@@ -10,13 +10,13 @@
   margin-top: 135px;
 }
 
-@media screen and (min-width: 769px) and (max-width: 1024) {
+@media screen and (min-width: 768px) and (max-width: 1024) {
   .quotes {
     margin-top: 80px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767.99px) {
   .quotes {
     margin-top: 50px;
   }

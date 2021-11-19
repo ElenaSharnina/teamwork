@@ -7,13 +7,13 @@
   line-height: 23px;
   max-width: 400px;
 }
-@media screen and (min-width: 769px) and (max-width: 1024px) {
+@media screen and (min-width: 768px) and (max-width: 1024px) {
   .wish__text-list {
     font-size: 13px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767.9px) {
   .wish__text-list {
     font-size: 12px;
     line-height: 1.4;

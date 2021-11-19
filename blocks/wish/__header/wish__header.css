@@ -15,7 +15,7 @@
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 767.9px) {
   .wish__header {
     font-size: 18px;
     margin-top: 30px;
