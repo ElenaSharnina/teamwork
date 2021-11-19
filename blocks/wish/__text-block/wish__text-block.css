@@ -15,14 +15,14 @@
     padding-bottom: 40px;
   }
 }
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (min-width: 769px) and (max-width: 1023px) {
   .wish__text-block {
     padding-left: 20px;
     padding-bottom: 20px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .wish__text-block {
     width: 100%;
     padding: 0 15px 25px 20px;
