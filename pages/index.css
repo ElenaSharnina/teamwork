@@ -2,7 +2,6 @@
 @import url(../vendor/fonts/Montserrat/montserrat.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/hover-underline/hover-underline.css);
-@import url(../blocks/opacity/opacity.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__nav/header__nav.css);
